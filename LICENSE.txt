@@ -1,0 +1,14 @@
+© Agni Ilango
+
+Portions of this software are licensed as follows:
+
+* The creative content of this project, including images and text, is 
+licensed under the Creative Commons Attribution 4.0 International 
+License (CC-BY-4.0) unless explicitly specified as licensed under the
+Creative Commons Attribution No Derivatives 4.0 License (CC-BY-ND-4.0).
+* Configuration files are licensed under the Creative Commons Zero v1.0 
+Universal License (CC0-1.0)
+* Content outside of the above mentioned directories or restrictions 
+above is licensed under the Mozilla Public License 2.0 (MPL-2.0) license.
+
+All licenses are available in the /LICENSES directory.

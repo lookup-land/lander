@@ -1,0 +1,48 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Lander
+Upstream-Contact: Agni Ilango
+Source: https://github.com/lookup-land/lander
+
+Files: bun.lockb
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .eslintrc.cjs
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .gitignore
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .prettierrc.cjs
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: package.json
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: tsconfig.json
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: app.config.ts
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: public/*
+Copyright: © Agni Ilango
+License: CC-BY-ND-4.0
+
+Files: src/assets/logos/**
+Copyright: © Agni Ilango
+License: CC-BY-ND-4.0
+
+Files: src/assets/models/**
+Copyright: © Agni Ilango
+License: CC-BY-4.0
+
+Files: src/assets/icons/external/github.svg
+Copyright: © GitHub, Inc.
+License: LicenseRef-NOASSERTION
