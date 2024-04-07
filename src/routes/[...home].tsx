@@ -45,6 +45,7 @@ const loadingAnimation = keyframes`
 const SLoadingLogo = styled("img")`
   width: 200px;
   height: 200px;
+  transform: scale(0.1);
   animation-name: ${loadingAnimation};
   animation-duration: 4s;
   animation-iteration-count: infinite;
