@@ -2,7 +2,7 @@
   "name": "@lookup/lander",
   "type": "module",
   "scripts": {
-    "dev": "vinxi dev",
+    "dev": "vinxi dev --port 2100",
     "build": "vinxi build",
     "start": "vinxi start",
     "version": "vinxi version"

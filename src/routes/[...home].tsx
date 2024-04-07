@@ -95,6 +95,8 @@ export default function Home() {
   let canvas: HTMLCanvasElement | undefined;
 
   onMount(async () => {
+    history.pushState(null, "", "/");
+
     if (!canvas) {
       return;
     }
